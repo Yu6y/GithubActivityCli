@@ -1,4 +1,4 @@
-# TaskCli - Task Tracker CLI in Java
+# Github User Activity CLI in Java
 
 This is simple command-line application to list latest github user activity.
 
